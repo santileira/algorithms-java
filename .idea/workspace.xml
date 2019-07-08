@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="980d61ed-c4bd-458a-bd4f-243f70d2e7c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-search/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-search/test/1-input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-search/test/1-output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-search/test/2-input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-search/test/2-output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-search/test/3-input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-search/test/3-output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/linear-search/src/algorithms/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear-search/src/algorithms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/linear-search/src/algorithms/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,13 +46,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="1-input" value="1" />
-          <entry key="java" value="472" />
+          <entry key="java" value="544" />
           <entry key="md" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="472" />
+          <entry key="JAVA" value="544" />
           <entry key="Markdown" value="81" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -71,11 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/linear-search/src/algorithms/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="279">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#438#447#0" expanded="true" />
@@ -93,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -144,9 +134,9 @@
         <option value="$PROJECT_DIR$/linear-search/test/3-output" />
         <option value="$PROJECT_DIR$/linear-search/test/2-output" />
         <option value="$PROJECT_DIR$/linear-search/test/1-output" />
-        <option value="$PROJECT_DIR$/linear-search/src/algorithms/Main.java" />
         <option value="$PROJECT_DIR$/linear-search/test/1-input" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/linear-search/src/algorithms/Main.java" />
       </list>
     </option>
   </component>
@@ -208,7 +198,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562629146152" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562629201737" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -258,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562627426734</updated>
-      <workItem from="1562627428247" duration="1492000" />
+      <workItem from="1562627428247" duration="1544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1492000" />
+    <option name="totallyTimeSpent" value="1544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,17 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linear-search/src/algorithms/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#438#447#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linear-search/test/1-input">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -414,6 +393,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linear-search/src/algorithms/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#438#447#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
