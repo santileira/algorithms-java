@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/algorithms-java.iml" filepath="$PROJECT_DIR$/algorithms-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b-tree/b-tree.iml" filepath="$PROJECT_DIR$/b-tree/b-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search-tree/binary-search-tree.iml" filepath="$PROJECT_DIR$/binary-search-tree/binary-search-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubble-sort/bubble-sort.iml" filepath="$PROJECT_DIR$/bubble-sort/bubble-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/depth-first-search/depth-first-search.iml" filepath="$PROJECT_DIR$/depth-first-search/depth-first-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertion-sort/insertion-sort.iml" filepath="$PROJECT_DIR$/insertion-sort/insertion-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear-search/linear-search.iml" filepath="$PROJECT_DIR$/linear-search/linear-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge-sort/merge-sort.iml" filepath="$PROJECT_DIR$/merge-sort/merge-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-sort/quick-sort.iml" filepath="$PROJECT_DIR$/quick-sort/quick-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selection-sort/selection-sort.iml" filepath="$PROJECT_DIR$/selection-sort/selection-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell-sort/shell-sort.iml" filepath="$PROJECT_DIR$/shell-sort/shell-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spanning-tree/spanning-tree.iml" filepath="$PROJECT_DIR$/spanning-tree/spanning-tree.iml" />
     </modules>
   </component>
 </project>
